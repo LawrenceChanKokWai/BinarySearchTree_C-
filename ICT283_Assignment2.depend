@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1604918534 source:c:\users\kokwa\onedrive\desktop\ict283_assignment2\dataframe.cpp
+	"DataFrame.h"
+
+1604915350 c:\users\kokwa\onedrive\desktop\ict283_assignment2\dataframe.h
+	"VECTOR.h"
+	"Record.h"
+	"BinarySearchTree.h"
+	<queue>
+	<tuple>
+	<vector>
+	<map>
+
+1604915350 c:\users\kokwa\onedrive\desktop\ict283_assignment2\vector.h
+	<iostream>
+	<cassert>
+	<vector>
+
+1604915350 c:\users\kokwa\onedrive\desktop\ict283_assignment2\record.h
+	"VECTOR.h"
+	"DATE.h"
+	"Time.h"
+	<iostream>
+
+1604915350 c:\users\kokwa\onedrive\desktop\ict283_assignment2\date.h
+	<iostream>
+	<string>
+
+1604915350 c:\users\kokwa\onedrive\desktop\ict283_assignment2\time.h
+	<iostream>
+
+1604974166 c:\users\kokwa\onedrive\desktop\ict283_assignment2\binarysearchtree.h
+	"VECTOR.h"
+	<algorithm>
+
+1604915358 source:c:\users\kokwa\onedrive\desktop\ict283_assignment2\date.cpp
+	<string>
+	"DATE.h"
+	"Util.h"
+
+1604915350 c:\users\kokwa\onedrive\desktop\ict283_assignment2\util.h
+	"VECTOR.h"
+
+1604915358 source:c:\users\kokwa\onedrive\desktop\ict283_assignment2\filereader.cpp
+	"FileReader.h"
+	<fstream>
+	<string>
+	"Util.h"
+
+1604915350 c:\users\kokwa\onedrive\desktop\ict283_assignment2\filereader.h
+	"VECTOR.h"
+
+1605787848 source:c:\users\kokwa\onedrive\desktop\ict283_assignment2\main.cpp
+	<iostream>
+	"FileReader.h"
+	"DataFrame.h"
+	"Util.h"
+	<fstream>
+
+1604915358 source:c:\users\kokwa\onedrive\desktop\ict283_assignment2\record.cpp
+	"Record.h"
+	<string>
+	"Util.h"
+	<iostream>
+	<algorithm>
+
+1604915358 source:c:\users\kokwa\onedrive\desktop\ict283_assignment2\testtree.cpp
+	<iostream>
+	<cstdlib>
+	"BinarySearchTree.h"
+
+1604915358 source:c:\users\kokwa\onedrive\desktop\ict283_assignment2\time.cpp
+	"Time.h"
+
+1604918536 source:c:\users\kokwa\onedrive\desktop\data structure\ict283_assignment2\dataframe.cpp
+	"DataFrame.h"
+
+1604915352 c:\users\kokwa\onedrive\desktop\data structure\ict283_assignment2\dataframe.h
+	"VECTOR.h"
+	"Record.h"
+	"BinarySearchTree.h"
+	<queue>
+	<tuple>
+	<vector>
+	<map>
+
+1604915352 c:\users\kokwa\onedrive\desktop\data structure\ict283_assignment2\vector.h
+	<iostream>
+	<cassert>
+	<vector>
+
+1604915352 c:\users\kokwa\onedrive\desktop\data structure\ict283_assignment2\record.h
+	"VECTOR.h"
+	"DATE.h"
+	"Time.h"
+	<iostream>
+
+1604915352 c:\users\kokwa\onedrive\desktop\data structure\ict283_assignment2\date.h
+	<iostream>
+	<string>
+
+1604915352 c:\users\kokwa\onedrive\desktop\data structure\ict283_assignment2\time.h
+	<iostream>
+
+1604974168 c:\users\kokwa\onedrive\desktop\data structure\ict283_assignment2\binarysearchtree.h
+	"VECTOR.h"
+	<algorithm>
+
+1604915360 source:c:\users\kokwa\onedrive\desktop\data structure\ict283_assignment2\date.cpp
+	<string>
+	"DATE.h"
+	"Util.h"
+
+1604915352 c:\users\kokwa\onedrive\desktop\data structure\ict283_assignment2\util.h
+	"VECTOR.h"
+
+1604915360 source:c:\users\kokwa\onedrive\desktop\data structure\ict283_assignment2\filereader.cpp
+	"FileReader.h"
+	<fstream>
+	<string>
+	"Util.h"
+
+1604915352 c:\users\kokwa\onedrive\desktop\data structure\ict283_assignment2\filereader.h
+	"VECTOR.h"
+
+1604915360 source:c:\users\kokwa\onedrive\desktop\data structure\ict283_assignment2\record.cpp
+	"Record.h"
+	<string>
+	"Util.h"
+	<iostream>
+	<algorithm>
+
+1604915360 source:c:\users\kokwa\onedrive\desktop\data structure\ict283_assignment2\testtree.cpp
+	<iostream>
+	<cstdlib>
+	"BinarySearchTree.h"
+
+1604915360 source:c:\users\kokwa\onedrive\desktop\data structure\ict283_assignment2\time.cpp
+	"Time.h"
+
+1605971250 source:c:\users\kokwa\onedrive\desktop\data structure\ict283_assignment2\main.cpp
+	<iostream>
+	"FileReader.h"
+	"DataFrame.h"
+	"Util.h"
+	<fstream>
+

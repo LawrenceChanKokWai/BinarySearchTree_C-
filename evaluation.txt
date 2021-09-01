@@ -1,0 +1,16 @@
+﻿Declaration: 
+The executable does not contain any malware. This has been said due to the fact that I as an author of the code DID NOT put any malicious piece of code. Moreover, the executable was scanned using windows defender.
+
+
+
+
+Executive Summary
+
+
+* Finding average wind speed and average ambient air temperature for a specified month and year is working as expected.
+* Finding  Average wind speed and average ambient air temperature for each month of a specified year is working as expected.
+* Finding Total solar radiation in kWh / m2 for each month of a specified year is working as expected..
+* Finding Average wind speed(km / h), average ambient air temperature and total solar radiation in kWh / m2 for each month of a specified year is working as expected..
+* Finding the highest solar radiation times for date is working as expected.
+* All the five different options provided to the user on the command line have been tested thoroughly and no bugs have been found. 
+
